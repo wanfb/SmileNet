@@ -1,2 +1,3 @@
 # SmileNet
-This is a pytorch version of SmileNet, which used to be caffe
+This is a pytorch implementation of SmileNet.
+
